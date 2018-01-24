@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "Bounty pls",
+	"version": "0.1",
+	"description": "Update pls.",
+    "homepage_url": "https://twitter.com/EdOverflow",
+	"browser_action": {
+    "default_icon": "icon.png"
+  },
+	"content_scripts":
+	[
+		{
+			"matches": ["*://twitter.com/*"],
+			"js": ["jquery-3.3.1.min.js", "walk.js"],
+			"run_at": "document_end"
+		}
+	]
+}
