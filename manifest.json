@@ -11,7 +11,7 @@
 	[
 		{
 			"matches": ["*://twitter.com/*"],
-			"js": ["jquery-3.3.1.min.js", "walk.js"],
+			"js": ["walk.js"],
 			"run_at": "document_end"
 		}
 	]
