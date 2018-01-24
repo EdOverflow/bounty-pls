@@ -14,3 +14,5 @@ Then navigate to `chrome://extensions/`, ensure that "Developer mode" has been a
 
 ![image](https://user-images.githubusercontent.com/18099289/35337793-5f05d7e4-011c-11e8-8a64-e608fbf36126.png)
 ![image](https://user-images.githubusercontent.com/18099289/35337816-6b862d16-011c-11e8-9ccd-6036df8db5c8.png)
+
+You can also get packed versions of the extension here: https://github.com/EdOverflow/bounty-pls/releases/.
